@@ -14,5 +14,5 @@ Data analysis was performed with Pandas and the results were shown through Matpl
 2. A bar graph that compares the total % tumor change for each drug across the full 45 days
 
 The conclusion derived from the Analysis:
-‘Capomulin’ stands out as the drug having the most potential for success in treatment of SCC in mice.  Tumor volume decreased by -19% while metastatic spread increased from 0.0 to 1.47 and survival rate stood at 84% at the end of 45 days of treatment with ‘Capomulin’. This is much better in comparison with the other 3 drugs namely ‘Infubinol’, ‘Ketapril’ or ‘Placebo’. 
+*  ‘Capomulin’ stands out as the drug having the most potential for success in treatment of SCC in mice.  Tumor volume decreased by -19% while metastatic spread increased from 0.0 to 1.47 and survival rate stood at 84% at the end of 45 days of treatment with ‘Capomulin’. This is much better in comparison with the other 3 drugs namely ‘Infubinol’, ‘Ketapril’ or ‘Placebo’. 
 
