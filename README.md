@@ -13,6 +13,6 @@ Data analysis was performed with Pandas and the results were shown through Matpl
     * the number of mice still alive through the course of treatment (Survival Rate)
 2. A bar graph that compares the total % tumor change for each drug across the full 45 days
 
-The conclusion made after the Analysis:
+The conclusion derived from the Analysis:
 
 
